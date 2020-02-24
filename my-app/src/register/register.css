@@ -1,0 +1,52 @@
+.submitBtn{
+    margin: 10px 0 0 0;
+}
+.jumbotron{
+    
+    font-family: "Times New Roman", Times, serif;
+    letter-spacing: 4px;
+
+	color: #e9ecef;
+	text-shadow: 2px 2px 0 #007bff, 2px -2px 0 #007bff, -2px 2px 0 #007bff, -2px -2px 0 #007bff, 2px 0px 0 #007bff, 0px 2px 0 #007bff, -2px 0px 0 #007bff, 0px -2px 0 #007bff;
+}
+
+.scaleTitle{
+	font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    letter-spacing: 4px;
+    color: #e9ecef;
+	text-shadow: 1px 1px 0 #007bff, 1px -1px 0 #007bff, -1px 1px 0 #007bff, -1px -1px 0 #007bff, 1px 0px 0 #007bff, 0px 1px 0 #007bff, -1px 0px 0 #007bff, 0px -1px 0 #007bff;
+
+}
+.menu-title{
+	font-family: "Times New Roman", Times, serif;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 1.4em;
+    color: #404040;
+}
+.menu-title:hover{
+    box-shadow: 0 0 2px #007bff;
+}
+.card-title{
+    margin: 1em 0 0.5em 0;
+	color: #343434;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 40px;
+	font-family: "Times New Roman", Times, serif;
+}
+.addBtn1{
+    margin: auto;
+    margin-top: 15px;
+    width: 50%;
+}
+.d1{
+    margin: 10%;
+}
+.form-check{
+    margin: 20px;
+}
+.form-group{
+    margin: 20px 50px 20px 50px ;
+}
